@@ -1,1 +1,1 @@
-RESTful API project that contains the features traditionally found in a CRUD app. User data can be created, deleted, patched, found, etc... The different routes (GET, POST, PATCH, DELETE) were tested with Postman.
+RESTful API project with Node and Express that contains the features traditionally found in a CRUD app. User data can be created, deleted, patched, found, etc... The different routes (GET, POST, PATCH, DELETE) were tested with Postman.
